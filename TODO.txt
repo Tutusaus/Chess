@@ -1,0 +1,7 @@
+1. Cal millorar la funció MovLegal pel rei (ja que a vegades detecta com a mov legal un mov que en realitat no ho és).
+2. Cal afegir audio per quan es mohuin o es capturin peces dels escacs.
+3. Finalment, caldria afegir la famos AI per tal de poder jugar contra la màquina, de la mateixa manera que poder triar qui comença (quin color vol).
+4. Animar les peces alhora de moure's d'A a B.
+5. Hauria de crear un bon game loop que comprovi a qui li toca tirar, pinti per pantalla (animar) o imprimeixi tot el necessari i que comprovi si la condició
+   per tal de guanyar (qualsevol dels dos reis no es pot moure) es compleix.
+6. Cal assegurar que si no hi ha cap casella on es pugui moure el rei ni cap peca del mateix color que pugui barrar l'atac alhesores el joc s'acabi.
